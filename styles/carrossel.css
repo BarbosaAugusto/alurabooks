@@ -129,4 +129,8 @@
         margin-left: 3em;
     }
 
+    .botoes__ancora:active {
+        background-color: var(--azul);
+    }
+
 }
